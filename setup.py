@@ -2,7 +2,7 @@ from setuptools import *
 setup(
 name="quaternionmath",
 version="1.0.0",
-description=("A simple Python library featuring a"
+description=("A simple Python library featuring a "
 "\"Quaternion\" class, for dealing with Quaternion arithmetic."),
 long_description="""
 Quaternionmath consists of a "Quaternion" class, which defines the Quaternion
